@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<breakfast_menu>
+	<food>
+		<name>Belgian Waffles</name>
+		<price>$5.95</price>
+		<description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+		<calories>650</calories>
+	</food>
+	<food>
+		<name>Strawberry Belgian Waffles</name>
+		<price>$7.95</price>
+		<description>Light Belgian waffles covered with strawberries and whipped cream</description>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>Berry-Berry Belgian Waffles</name>
+		<price>$8.95</price>
+		<description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>French Toast</name>
+		<price>$4.50</price>
+		<description>Thick slices made from our homemade sourdough bread</description>
+		<calories>600</calories>
+	</food>
+	<food>
+		<name>Homestyle Breakfast</name>
+		<price>$6.95</price>
+		<description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
+		<calories>955</calories>
+	</food>
+	<food>
+		<name>Hearty Breakfast Skillet</name>
+		<price>$8.75</price>
+		<description>All sorts of breakfast food, served in a cast-iron skillet!</description>
+		<calories>990</calories>
+	</food>
+	<food>
+		<name>Chocolate Milk</name>
+		<price>$2.00</price>
+		<description>A 16-oz carton of frosty chocolate milk</description>
+		<calories>250</calories>
+	</food>
+	<food>
+		<name>Large Milk Shake</name>
+		<price>$4.50</price>
+		<description>Availiable in chocolate, strawberry, and vanilla</description>
+		<calories>290</calories>
+	</food>
+	<food>
+		<name>Ham and Cheese Omelette</name>
+		<price>$7.99</price>
+		<description>4 ounces of ham and 6 slices of cheese, with 4 eggs</description>
+		<calories>710</calories>
+	</food>
+	<food>
+		<name>Banana Pecan Pancake Breakfast</name>
+		<price>$9.50</price>
+		<description>Fresh bananas and hand-shelled pecans, now in pancake form</description>
+		<calories>750</calories>
+	</food>
+	<food>
+		<name>Side of Grits</name>
+		<price>$2.50</price>
+		<description>The dish that made the South famous, with butter</description>
+		<calories>220</calories>
+	</food>
+	<food>
+		<name>Garden Salad</name>
+		<price>$4.90</price>
+		<description>Fresh vegetables with your choice of dressing</description>
+		<calories>190</calories>
+	</food>
+</breakfast_menu>
