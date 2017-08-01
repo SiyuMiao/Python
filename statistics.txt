@@ -1,0 +1,66 @@
+The number of a's is 483
+The number of b's is 95
+The number of c's is 187
+The number of d's is 254
+The number of e's is 868
+The number of f's is 182
+The number of g's is 131
+The number of h's is 352
+The number of i's is 455
+The number of j's is 17
+The number of k's is 14
+The number of l's is 230
+The number of m's is 146
+The number of n's is 490
+The number of o's is 518
+The number of p's is 138
+The number of q's is 6
+The number of r's is 429
+The number of s's is 483
+The number of t's is 648
+The number of u's is 213
+The number of v's is 74
+The number of w's is 97
+The number of x's is 9
+The number of y's is 82
+The number of z's is 4
+The number of ,'s is 107
+The number of .'s is 37
+The number of -'s is 7
+----------------------------------------
+The number of words in the file are 1335
+The most frequently occurring word is: 
+'of' occurring 78 times
+The number of a's is 483
+The number of b's is 95
+The number of c's is 187
+The number of d's is 254
+The number of e's is 868
+The number of f's is 182
+The number of g's is 131
+The number of h's is 352
+The number of i's is 455
+The number of j's is 17
+The number of k's is 14
+The number of l's is 230
+The number of m's is 146
+The number of n's is 490
+The number of o's is 518
+The number of p's is 138
+The number of q's is 6
+The number of r's is 429
+The number of s's is 483
+The number of t's is 648
+The number of u's is 213
+The number of v's is 74
+The number of w's is 97
+The number of x's is 9
+The number of y's is 82
+The number of z's is 4
+The number of ,'s is 107
+The number of .'s is 37
+The number of -'s is 7
+----------------------------------------
+The number of words in the file are 1335
+The most frequently occurring word is: 
+'of' occurring 78 times
