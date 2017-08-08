@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 
 root = ET.parse(source = "cd_catalog.xml")
 
-print "Individual HW 1: CD Catalog\n\nPart a:"
+
 #find out the numbers of total CD
 print "The total number of CDs is",(len(root.findall("CD")))
 #find out the price of each one and add them together
