@@ -2,7 +2,7 @@
 import xml.etree.ElementTree as ET
 
 root = ET.parse(source = "books.xml")
-print "Individual HW 2: Book Catalog\nPart a"
+
 print "-"*40
 #create a function and print out the title, author, price of each book.
 def book_info(id):
