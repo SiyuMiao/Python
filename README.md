@@ -6,4 +6,25 @@
 # Detials for every program
 | Name | Description |
 |------|-------------|
-|[Book Catalog.py](https://github.com/SiyuMiao/Python/blob/master/Book%20Catalog.py)||
+|[Book Catalog.py](https://github.com/SiyuMiao/Python/blob/master/Book%20Catalog.py)|Book store system|
+|[CD Catalog.py](https://github.com/SiyuMiao/Python/blob/master/CD%20Catalog.py)|CD store system|
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
+|[]()||
