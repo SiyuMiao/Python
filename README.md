@@ -3,7 +3,7 @@
 
 >For this repository, it contains some python examples I have written, it also recorded the journey of my programming life. I created these programs as experiments to improve my programming skills. If you would like to make any comments then please feel free to email me at siyumiao1227@gmail.com.
 
-##Detials for every program
+# Detials for every program
 | Name | Description |
 |------|-------------|
 |1234|12345|
