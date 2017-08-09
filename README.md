@@ -15,16 +15,14 @@
 |[Name.py](https://github.com/SiyuMiao/Python/blob/master/Name.py)|Game: Based on the information find the killer|
 |[OrderPizza.py](https://github.com/SiyuMiao/Python/blob/master/OrderPizza.py)|Order pizza system (Amount of people, cans of soda, tax and total price)|
 |[Personnal File.py](https://github.com/SiyuMiao/Python/blob/master/Personnel%20File.py)|How to use "print table" from .txt file|
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
+|[Personnel Filebonus.py](https://github.com/SiyuMiao/Python/blob/master/Personnel%20Filebonus.py)|Insert txt file into dictionary and then print out the table|
+|[Practical.py](https://github.com/SiyuMiao/Python/blob/master/Practical.py)|Enter a word that you want to search on a webstie and then print out all the information include the word|
+|[RandomRace.py](https://github.com/SiyuMiao/Python/blob/master/RandomRace.py)|Game: Pick up your racer and car and then show you random race results|
+|[RandomSen.py](https://github.com/SiyuMiao/Python/blob/master/RandomSen.py)|Random pick up verb, adjective from list and then create a sentence|
+|[Stocks.py](https://github.com/SiyuMiao/Python/blob/master/Stocks.py)|Stock system (Company, last trade, change, date and previous close)|
+|[Text File Analysis.py](https://github.com/SiyuMiao/Python/blob/master/Text%20File%20Analysis.py)|Import txt file, count all letters in the file and then save the result as txt file|
+|[Timing Recursion.py](https://github.com/SiyuMiao/Python/blob/master/Timing%20Recursion.py)|Import time (fibonacci and factorial) Calculate the time|
+|[UnitConvert.py](https://github.com/SiyuMiao/Python/blob/master/UnitConvert.py)|Unit convert system (ML-L, G-L, T-L, L-ML, L-G and L-T)|
+|[University.py](https://github.com/SiyuMiao/Python/blob/master/University.py)|Employee system: @staticmethod (Title, name, phone number, salary, GPA)|
+|[menu.py](https://github.com/SiyuMiao/Python/blob/master/menu.py)|import xml.etree.ElementTree as ET (Creating html in python)|
+|[address.html](https://github.com/SiyuMiao/Python/blob/master/address.html)|Creating address book on html|
