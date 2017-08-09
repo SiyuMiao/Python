@@ -8,10 +8,10 @@
 |------|-------------|
 |[Book Catalog.py](https://github.com/SiyuMiao/Python/blob/master/Book%20Catalog.py)|Book store system|
 |[CD Catalog.py](https://github.com/SiyuMiao/Python/blob/master/CD%20Catalog.py)|CD store system|
-|[]()||
-|[]()||
-|[]()||
-|[]()||
+|[CountingNums.py](https://github.com/SiyuMiao/Python/blob/master/CountingNums.py)|Counting numbers from start number to the end number |
+|[HideWords.py](https://github.com/SiyuMiao/Python/blob/master/HideWords.py)|Based on user's command to hide words in the dictionary|
+|[Math Quiz Program.py](https://github.com/SiyuMiao/Python/blob/master/Math%20Quiz%20Program.py)|Choose your quiz level and then random appear math problems|
+|[Movies.py](https://github.com/SiyuMiao/Python/blob/master/Movies.py)|As an owner of cinema, updating your movies|
 |[]()||
 |[]()||
 |[]()||
